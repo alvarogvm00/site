@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260505214725C2B6LT</value>
+    <value>20260505222446WYUNGI</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260505214725ANIJBI</value>
+    <value>20260505222446XSCPQK</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778009474132</value>
+    <value>1778012659871</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,11 +89,31 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>c529ff75-3da0-4a80-a0a4-9ac053fa147a</odePageId>
+  <odePageId>page-mot2twip-3eglvui0p</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Descripción de la SdA</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Descripción de la SdA</value>
@@ -105,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>c529ff75-3da0-4a80-a0a4-9ac053fa147a</odePageId>
+      <odePageId>page-mot2twip-3eglvui0p</odePageId>
       <odeBlockId>block-1777997690598-cfr5e6v2r</odeBlockId>
       <blockName>Presentación</blockName>
       <iconName>collaborative</iconName>
@@ -134,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>c529ff75-3da0-4a80-a0a4-9ac053fa147a</odePageId>
+          <odePageId>page-mot2twip-3eglvui0p</odePageId>
           <odeBlockId>block-1777997690598-cfr5e6v2r</odeBlockId>
           <odeIdeviceId>idevice-1777997690595-pbj2mrs7n</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -144,12 +164,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997690595-pbj2mrs7n","textInfoDurationInput":"4-5 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas-Tríos","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>4-5 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas-Tríos</dd></div></dl><p style=\"text-align: justify;\">Con el fin de desarrollar las destrezas vinculadas a la educación literaria, debéis realizar una <strong>infografía</strong> sobre poetas en lengua asturiana y, posteriormente, grabar <strong>recital en formato podcast</strong> con aquellos poemas que más os llamaron la atención. A esta situación de aprendizaje le dedicaremos <strong>4-5 sesiones </strong>y podréis realizarla agrupándoos por <strong>parejas </strong>o <strong>tríos. </strong></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>c529ff75-3da0-4a80-a0a4-9ac053fa147a</odePageId>
+      <odePageId>page-mot2twip-3eglvui0p</odePageId>
       <odeBlockId>block-1777998318275-bzmrnb93q</odeBlockId>
       <blockName>Propósito</blockName>
       <iconName>draw</iconName>
@@ -178,7 +210,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>c529ff75-3da0-4a80-a0a4-9ac053fa147a</odePageId>
+          <odePageId>page-mot2twip-3eglvui0p</odePageId>
           <odeBlockId>block-1777998318275-bzmrnb93q</odeBlockId>
           <odeIdeviceId>idevice-1777998318273-c068759au</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -189,6 +221,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998318273-c068759au","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con esta SdA se busca que desarrolléis: </p>\n<p>El hábito lector.<br />Las destrezas de expresión oral y comprensión escrita.<br />La formación de un gusto personal en función de la selección autónoma de textos literarios en lengua asturiana ajustados a su nivel e intereses. <br />Hábitos saludables de uso de las TIC y respetuosos con la propiedad intelectual. <br />La capacidad de trabajo autónomo y la investigación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -196,19 +240,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777998579883-0m1b59cj2</odePageId>
-  <odeParentPageId>c529ff75-3da0-4a80-a0a4-9ac053fa147a</odeParentPageId>
+  <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
+  <odeParentPageId>page-mot2twip-3eglvui0p</odeParentPageId>
   <pageName>Tareas asociadas</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Tareas asociadas</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas asociadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1777998579883-0m1b59cj2</odePageId>
+      <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
       <odeBlockId>block-1777998581815-v2d9vlk8d</odeBlockId>
       <blockName>Tarea 1: Planificación y búsqueda de información</blockName>
       <iconName>activity</iconName>
@@ -237,7 +305,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777998579883-0m1b59cj2</odePageId>
+          <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
           <odeBlockId>block-1777998581815-v2d9vlk8d</odeBlockId>
           <odeIdeviceId>idevice-1777998581814-1csa3jcsk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -255,12 +323,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998581814-1csa3jcsk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En primer lugar, debéis <strong>formar los grupos de trabajo</strong> buscando que sean heterogéneos, es decir, que no os podéis organizar por afinidad y poneros con vuestros amigos, ya que parte de la tarea consiste en que aprendáis a trabajar con todo tipo de gente con un mismo propósito. </p>\n<p>A continuación, hay que ponerse de acuerdo y decidir qué autores vais a incluir en la infografía. De ellos hay que buscar los siguientes datos: </p>\n<ul>\n<li>Información biográfica fundamental: lugar y fecha de nacimiento y/o defunción; formación; participación en movimientos o campañas a favor del asturiano; premios literarios; etc.</li>\n<li>Obras escritas. </li>\n<li>Algún verso o fragmento compuesto por ese autor o autora. </li>\n</ul>\n<p>Finalmente, debéis buscar y organizar la información (no vale copiar y pegar). Para ello, tenéis que realizar una selección consensuada de los datos más relevantes y redactarlo de un modo personal. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1777998579883-0m1b59cj2</odePageId>
+      <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
       <odeBlockId>block-1777999211375-euo8x1njx</odeBlockId>
       <blockName>Tarea 2: Elaboración de la infografía</blockName>
       <iconName>interactive</iconName>
@@ -289,7 +369,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777998579883-0m1b59cj2</odePageId>
+          <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
           <odeBlockId>block-1777999211375-euo8x1njx</odeBlockId>
           <odeIdeviceId>idevice-1777999211373-qhydg6fda</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -301,12 +381,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999211373-qhydg6fda","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez hayáis completado la primera tarea, podéis comenzar a componer al infografía. Para ello, podéis utilizar herramientas digitales como <strong>Canva </strong>o <strong>Genial.ly. </strong>Os recuerdo que debe contar con algún elemento interactivo, como botones o pestañas, animaciones simples o enlaces clicables. En esta infografía os dejo algunos consejos sobre cómo hacer una infografía adecuadamente:</p>\n<p><img src=\"{{context_path}}/content/resources/4c99753e-3fe5-df15-b8c4-e67df8703c73\" width=\"767\" height=\"767\" alt=\"Esquema sobre cómo realizar una infografía adecuadamente.\" /></p>\n<p>Cuando hayáis terminado, debéis entregar el producto a través de <strong>Aulas Virtuales.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1777998579883-0m1b59cj2</odePageId>
+      <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
       <odeBlockId>block-1778000033491-j3em2zhio</odeBlockId>
       <blockName>Ejemplos de infografías</blockName>
       <iconName>gallery</iconName>
@@ -335,7 +427,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777998579883-0m1b59cj2</odePageId>
+          <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
           <odeBlockId>block-1778000033491-j3em2zhio</odeBlockId>
           <odeIdeviceId>idevice-1778000033489-2iykbs53r</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -353,12 +445,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000033489-2iykbs53r","img_3":{"img":"{{context_path}}/content/resources/Blue Green Orange Yellow Colorful Illustrative Chart Informational Infographic.png","thumbnail":"{{context_path}}/content/resources/Blue Green Orange Yellow Colorful Illustrative Chart Informational Infographic.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/Periodos de la lliteratura asturiana.jpg","thumbnail":"{{context_path}}/content/resources/Periodos de la lliteratura asturiana.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/Asturianu pa toos y toes.png","thumbnail":"{{context_path}}/content/resources/Asturianu pa toos y toes.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1777998579883-0m1b59cj2</odePageId>
+      <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
       <odeBlockId>block-1778000287104-9rkg3o9ci</odeBlockId>
       <blockName>Tarea 3: Grabación del podcast</blockName>
       <iconName>listen</iconName>
@@ -387,7 +491,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777998579883-0m1b59cj2</odePageId>
+          <odePageId>page-mot2twiu-5sdbqyvlv</odePageId>
           <odeBlockId>block-1778000287104-9rkg3o9ci</odeBlockId>
           <odeIdeviceId>idevice-1778000287102-jf30z6z45</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -402,6 +506,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000287102-jf30z6z45","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Una vez terminadas las infografías, la clase en conjunto grabará un podcast que consistirá en un recital poético con los poemas que seleccionéis. Para ello, tenéis que ensayar primero y fijaros bien en la pronunciación y la locución. En esta tarea utilizaremos aplicaciones como <strong>V</strong><strong>ocaroo </strong>o <strong>Audacity</strong>, que permiten grabar y editar audio de manera bastante cómoda. De manera sintética, se pueden diferenciar los siguientes pasos: </p>\n<ol>\n<li style=\"text-align: justify;\">Selección de un poema en lengua asturiana de algún autor enmarcado en el Surdimientu. </li>\n<li style=\"text-align: justify;\">Práctica de recitado. </li>\n<li style=\"text-align: justify;\">Grabación del poema en formato podcast con <strong>Vocaroo </strong>o <strong>Audacity. </strong></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -409,19 +525,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777998371436-wko5sc9me</odePageId>
+  <odePageId>page-mot2twj0-c5b8onxml</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Materiales de apoyo</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Materiales de apoyo</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Materiales de apoyo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1777998371436-wko5sc9me</odePageId>
+      <odePageId>page-mot2twj0-c5b8onxml</odePageId>
       <odeBlockId>block-1778001123581-xkgislcdw</odeBlockId>
       <blockName>PPT. sobre poesía asturiana del Surdimientu</blockName>
       <iconName>book</iconName>
@@ -450,7 +590,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777998371436-wko5sc9me</odePageId>
+          <odePageId>page-mot2twj0-c5b8onxml</odePageId>
           <odeBlockId>block-1778001123581-xkgislcdw</odeBlockId>
           <odeIdeviceId>idevice-1778001123579-s1ctuq1d6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -460,12 +600,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001123579-s1ctuq1d6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/4k59chqkusjw2ib\" title=\"\"><img src=\"{{context_path}}/content/resources/Poesía Surdimientu.png\" width=\"767\" height=\"434\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1777998371436-wko5sc9me</odePageId>
+      <odePageId>page-mot2twj0-c5b8onxml</odePageId>
       <odeBlockId>block-1778001297924-w7mflij53</odeBlockId>
       <blockName>Documental sobre poetas asturianas. &quot;Elles, muyeres na lliteratura asturiana&quot;</blockName>
       <iconName>video</iconName>
@@ -494,7 +646,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777998371436-wko5sc9me</odePageId>
+          <odePageId>page-mot2twj0-c5b8onxml</odePageId>
           <odeBlockId>block-1778001297924-w7mflij53</odeBlockId>
           <odeIdeviceId>idevice-1778001297921-cm709gff5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -506,12 +658,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001297921-cm709gff5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><video width=\"300\" height=\"150\" controls=\"controls\">\n<source src=\"https://cdn-rtpa.watchity.net/vod/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzgwMjIwMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi92b2QvIl19.k-zgrRHRHco-ou-Y22ncYbCQKOLMT9zze3VnAoMezZs/2020/12/bb204b3b-2aa6-4c00-a5de-bcdb09992965_Fast_H,500,1200,.mp4.m3u8\" /></video></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1777998371436-wko5sc9me</odePageId>
+      <odePageId>page-mot2twj0-c5b8onxml</odePageId>
       <odeBlockId>block-1778001664733-b0pmhvysh</odeBlockId>
       <blockName>Cuestionario sobre la poesía asturiana del Surdimientu</blockName>
       <iconName>activity</iconName>
@@ -540,7 +704,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777998371436-wko5sc9me</odePageId>
+          <odePageId>page-mot2twj0-c5b8onxml</odePageId>
           <odeBlockId>block-1778001664733-b0pmhvysh</odeBlockId>
           <odeIdeviceId>idevice-1778001664730-x0xjy40d0</odeIdeviceId>
           <odeIdeviceTypeName>form</odeIdeviceTypeName>
@@ -590,6 +754,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001664730-x0xjy40d0","evaluation":false,"evaluationID":"d98b6e71-4969-4cb4-bd72-b9d102b3e517","repeatActivity":true,"isScorm":1,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778001664730-x0xjy40d0","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las siguientes preguntas. </p>","questionsData":[{"id":"1778001940002-HN8X5","activityType":"selection","baseText":"<p>¿En qué año aparece el Conceyu Bable?</p>","feedbackRight":"¡PERBIÉN!","feedbackWrong":"Ooops","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1968"],[false,"1974"],[false,"1990"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778002070159-O8CW0","activityType":"selection","baseText":"<p>¿Qué acontecimiento histórico favorece el Surdimientu?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"La Guerra Civil"],[false,"La entrada en la UE"],[true,"El fin de la dictadura de Franco"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778002112548-I1DN6","activityType":"selection","baseText":"<p>¿Qué institución se crea en 1981?</p>","feedbackRight":"¡PERBIÉN!","feedbackWrong":"Ooops","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Conceyu Bable"],[true,"Academia de la Llingua Asturiana"],[false,"Parlamento Asturiano"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778002240718-HLZ1C","activityType":"selection","baseText":"<p>¿Qué abandona la literatura del Surdimientu?</p>","feedbackRight":"¡PERBIÉN!","feedbackWrong":"Oooops","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"La poesía amorosa"],[false,"Los temas políticos"],[true,"Los temas políticos"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778002280366-VML4J","activityType":"selection","baseText":"<p>¿Qué ocurre en la segunda generación del Surdimientu?</p>","feedbackRight":"¡PERBIÉN!","feedbackWrong":"Ooops","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Se abandona la poesía\n"],[true,"La poesía se vuelve más intimista"],[false,"Se vuelve al folclore"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778002354824-6L2NX","activityType":"selection","baseText":"<p>¿Cuál de estos autores pertenece al Surdimientu?</p>","feedbackRight":"¡PERBIÉN!","feedbackWrong":"Ooops","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Xuan Bello"],[false,"Miguel de Cervantes"],[false,"Federico García Lorca"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778002428008-3G2PV","activityType":"true-false","baseText":"<p>La poesía del Surdimientu sigue centrada en el mundo rural tradicional.</p>","feedbackRight":"¡PERBIÉN!","feedbackWrong":"Meca...","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778002449269-2U5NT","activityType":"true-false","baseText":"<p>Los autores jóvenes rechazaban los estilos anteriores.</p>","feedbackRight":"¡Perbién!","feedbackWrong":"Meca...","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778002499942-5ATB2","activityType":"true-false","baseText":"<p>El Surdimientu no tiene relación con cambios políticos.</p>","feedbackRight":"¡Perbién!","feedbackWrong":"Meca...","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -597,19 +773,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778007819475-cpmlqme9v</odePageId>
+  <odePageId>page-mot2twj4-zt376xpis</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Aprender jugando</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Aprender jugando</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aprender jugando</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778007819475-cpmlqme9v</odePageId>
+      <odePageId>page-mot2twj4-zt376xpis</odePageId>
       <odeBlockId>block-1778002714435-ie3hbb251</odeBlockId>
       <blockName>Crucigrama</blockName>
       <iconName>interactive</iconName>
@@ -638,7 +838,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778007819475-cpmlqme9v</odePageId>
+          <odePageId>page-mot2twj4-zt376xpis</odePageId>
           <odeBlockId>block-1778002714435-ie3hbb251</odeBlockId>
           <odeIdeviceId>idevice-1778002714433-p3a0gl6p7</odeIdeviceId>
           <odeIdeviceTypeName>crossword</odeIdeviceTypeName>
@@ -657,12 +857,24 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1778007819475-cpmlqme9v</odePageId>
+      <odePageId>page-mot2twj4-zt376xpis</odePageId>
       <odeBlockId>block-1778007909839-8372xb5fr</odeBlockId>
       <blockName>TriviExt</blockName>
       <iconName>objectives</iconName>
@@ -691,7 +903,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778007819475-cpmlqme9v</odePageId>
+          <odePageId>page-mot2twj4-zt376xpis</odePageId>
           <odeBlockId>block-1778007909839-8372xb5fr</odeBlockId>
           <odeIdeviceId>idevice-1778007909837-dkw4lrknx</odeIdeviceId>
           <odeIdeviceTypeName>trivial</odeIdeviceTypeName>
@@ -699,6 +911,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -706,19 +930,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778004685988-fq35oer7l</odePageId>
+  <odePageId>page-mot2twj5-tlq6rnrn2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Diccionario de términos</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Diccionario de términos</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diccionario de términos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778004685988-fq35oer7l</odePageId>
+      <odePageId>page-mot2twj5-tlq6rnrn2</odePageId>
       <odeBlockId>block-1778008837537-hiweis5yl</odeBlockId>
       <blockName>Glosario</blockName>
       <iconName>book</iconName>
@@ -747,7 +995,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778004685988-fq35oer7l</odePageId>
+          <odePageId>page-mot2twj5-tlq6rnrn2</odePageId>
           <odeBlockId>block-1778008837537-hiweis5yl</odeBlockId>
           <odeIdeviceId>idevice-1778008837534-585kb5853</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -757,6 +1005,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008837534-585kb5853","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Presenta de manera vistosa las siguientes definiciones formando un glosario_ Inf.png\" width=\"767\" height=\"767\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -764,19 +1024,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778002584555-a6h7cj200</odePageId>
+  <odePageId>page-mot2twj6-kl2zt7aph</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Evaluación</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Evaluación</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778002584555-a6h7cj200</odePageId>
+      <odePageId>page-mot2twj6-kl2zt7aph</odePageId>
       <odeBlockId>block-1778003239051-qf8tlfhew</odeBlockId>
       <blockName>¿Cómo se os va a evaluar?</blockName>
       <iconName>calculate</iconName>
@@ -805,7 +1089,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778002584555-a6h7cj200</odePageId>
+          <odePageId>page-mot2twj6-kl2zt7aph</odePageId>
           <odeBlockId>block-1778003239051-qf8tlfhew</odeBlockId>
           <odeIdeviceId>idevice-1778003239048-btpdikbwg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -815,12 +1099,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003239048-btpdikbwg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al final de la situación de aprendizaje, se evaluarán los productos de manera independiente. Para la evaluación de la infografía, se empleará la <strong>rúbrica </strong>que aparece abajo. Para el recital en formato podcast, la <strong>lista de cotejo</strong>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1778002584555-a6h7cj200</odePageId>
+      <odePageId>page-mot2twj6-kl2zt7aph</odePageId>
       <odeBlockId>block-1778003380197-o1yun9m7x</odeBlockId>
       <blockName>Rúbrica para evaluar la infografía</blockName>
       <iconName>math</iconName>
@@ -849,7 +1145,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778002584555-a6h7cj200</odePageId>
+          <odePageId>page-mot2twj6-kl2zt7aph</odePageId>
           <odeBlockId>block-1778003380197-o1yun9m7x</odeBlockId>
           <odeIdeviceId>idevice-1778003380195-0nh2ub2oj</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -857,12 +1153,24 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1778002584555-a6h7cj200</odePageId>
+      <odePageId>page-mot2twj6-kl2zt7aph</odePageId>
       <odeBlockId>block-1778005687330-otasmsjlk</odeBlockId>
       <blockName>Lista de cotejo para evaluar el podcast-recital</blockName>
       <iconName>math</iconName>
@@ -891,7 +1199,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778002584555-a6h7cj200</odePageId>
+          <odePageId>page-mot2twj6-kl2zt7aph</odePageId>
           <odeBlockId>block-1778005687330-otasmsjlk</odeBlockId>
           <odeIdeviceId>idevice-1778005687327-1i0aj4ne5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -901,6 +1209,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005687327-1i0aj4ne5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Necesito que me hagas una lista de cotejo con los indicadores que aparecen abajo.png\" width=\"767\" height=\"767\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -908,19 +1228,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778009505320-ye3emzbfi</odePageId>
+  <odePageId>page-mot2twj7-jrgqfd4gq</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Atribución y descarga</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Atribución y descarga</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778009505320-ye3emzbfi</odePageId>
+      <odePageId>page-mot2twj7-jrgqfd4gq</odePageId>
       <odeBlockId>block-1778009507569-ig8m9kxrm</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -949,7 +1293,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778009505320-ye3emzbfi</odePageId>
+          <odePageId>page-mot2twj7-jrgqfd4gq</odePageId>
           <odeBlockId>block-1778009507569-ig8m9kxrm</odeBlockId>
           <odeIdeviceId>idevice-1778009507567-hzlzo1xqj</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -977,6 +1321,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
